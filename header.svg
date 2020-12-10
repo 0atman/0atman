@@ -51,7 +51,6 @@
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
-					text-align: center;
 				}
 
 				h1 {
@@ -71,7 +70,7 @@
 				p {
 					font-size: 15px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 1s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
