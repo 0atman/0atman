@@ -71,6 +71,10 @@
 					font-size: 15px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 1s ease 0s normal forwards 1 fadeIn;
+					  padding-top: 10px;
+					  padding-right: 10px;
+					  padding-bottom: 10px;
+					  padding-left: 10px;
 				}
 			</style>
 			<div class="container">
