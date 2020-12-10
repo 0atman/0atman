@@ -84,6 +84,15 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br />not an animated GIF</h1>
 				<p>Click to see the source</p>
+				<h1 id="hello-world-i-m-tris-">Hello world, I&#39;m Tris 👋</h1>
+<p>I&#39;m an audio hacker, python developer, and musician based in London. I currently work for the UK&#39;s <a href="https://github.com/alphagov/">Government Digital Service</a>, and by night I <a href="https://namtao.com">write electronic music</a> and produce a scifi podcast called <a href="https://www.youtube.com/watch?v=p3bDE9kszMc&amp;list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&amp;index=2&amp;t=0s">Lost Terminal</a>, exploring themes of near-future AI which blends my three great passions of music, programming, and <del>love of my own voice</del> writing fiction - check it out!</p>
+<h3 id="where-to-find-me-">Where to find me 📌</h3>
+<ul>
+<li>Blog - <a href="http://0atman.com">0atman.com</a></li>
+<li>Twitter - <a href="https://twitter.com/0atman">@0atman</a></li>
+<li>My Music - <a href="http://namtao.com">namtao.com</a></li>
+</ul>
+
 			</div>
 		</div>
 	</foreignObject>
