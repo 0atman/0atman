@@ -1,6 +1,7 @@
 <div>
 	<br>
 		<img src="header.svg" width="800" height="120">
+		(svg from sindresorhus/css-in-readme-like-wat)
 	<br>
 </div>
 
