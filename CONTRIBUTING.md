@@ -1,19 +1,19 @@
-Hi I'm Tris. 👋 I work in the GOV.UK Forms team, part of the [GDS](https://github.com/alphagov/), from my house in south London.
+Hi I'm Tris. 👋 I work in the [GOV.UK Forms](https://github.com/orgs/alphagov/teams/forms) team from my home in south London.
 
 This is my _personal readme_, sometimes called a _runbook_, or a _manual for me_. If you're reading this, we're probably working together, and I'd like to make that process as great as possible!
 
 
 ## The best way to give me feedback
 
-I am very receptive to feedback. I change my mind when presented with evidence. I will thank you genuinely when given clear, targeted feedback.
+I am **very** receptive to feedback. I change my mind when presented with evidence. I will thank you genuinely when given clear, targeted feedback.
 
 ## Beyond work, I’m really passionate about
 
-Jamming with friends, writing and producing fiction podcasts, playing tabletop games with my friends!
+Playing music and tabletop games with friends, I also write and produce fiction podcasts! ([Lost Terminal](https://www.lostterminal.com/) & [Modem Prometheus](https://www.modemprometheus.com/))
 
 ## My best working patterns
 
-Online, async, Monday-Wednesday 9-5. I am delighted to meet with my collagues in person once per sprint for planning, lunch, more planning, and after-work drinks.
+Online, async, Monday-Wednesday, 9-5. I am delighted to meet with my collagues in-person once per sprint for planning, lunch, more planning, and after-work drinks.
 
 ## When I'm dealing with stress
 
@@ -25,6 +25,6 @@ I like to work in an agile environment, where I deliver incremental features on 
 
 ## Working together
 
-You will find me very direct in my speech and plans. I write code to solve problems, and anything that is not writing code I see as an overhead. Many overheads, such as research and documentation are neciessary, but I am hyper aware that we're here to build a product. 
+You will find me very direct in my speech and plans. I write code to solve problems, and anything that is not writing code I see as an overhead. Many overheads, such as research and documentation are necessary, but I am hyper-aware that we're here to build a product, not beautiful meeting minutes. 
 
 I dislike solving the same problems that others have, or talking a lot with no clear goals.
