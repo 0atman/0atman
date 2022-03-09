@@ -1,6 +1,6 @@
 Hi I'm Tris. 👋 I work in the GOV.UK Forms team, part of the [GDS](https://github.com/alphagov/), from my house in south London.
 
-This is a personal readme, sometimes called a [Manual For Me](https://www.manualof.me). If you're reading this, you're working with me, and I'd like to make that process as great as possible!
+This is my _personal readme_, sometimes called a _runbook_, or a _manual for me_. If you're reading this, we're probably working together, and I'd like to make that process as great as possible!
 
 
 ## The best way to give me feedback
