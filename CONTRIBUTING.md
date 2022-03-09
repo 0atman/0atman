@@ -6,7 +6,7 @@ This is my _personal readme_, sometimes called a _runbook_, or a _manual for me_
 
 ## Working together
 
-You will find me very direct in my speech and plans. I write code to solve problems, and anything that is not writing code I see as an overhead. Many overheads, such as research and documentation are necessary, but I am hyper-aware that we're here to build a product, not beautiful meeting minutes. 
+You will find me [very direct](https://en.wikipedia.org/wiki/Autism_spectrum) in my speech and plans. I write code to solve problems, and anything that is not writing code I see as an overhead. Many overheads, such as research and documentation are necessary, but I am hyper-aware that we're here to build a product, not beautiful meeting minutes. 
 
 I dislike solving the same problems that others have, or talking a lot with no clear goals.
 ## The best way to give me feedback
