@@ -23,7 +23,7 @@ I don't typically have any issues with stress. I am very good at compartmentalis
 
 ## My absolute requirements to do great work
 
-I like to work in an agile environment, where I deliver incremental features on software into production many times a week.
+I like to work in an agile environment, where I deliver incremental software features into production many times a week.
 
 ## Beyond work, I’m really passionate about
 
