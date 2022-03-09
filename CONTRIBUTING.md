@@ -1,4 +1,4 @@
-Hi I'm Tris. 👋 I work in the GDS GOV.UK Forms team, from my house in south London.
+Hi I'm Tris. 👋 I work in the GOV.UK Forms team, part of the [GDS](https://github.com/alphagov/), from my house in south London.
 
 This is a personal readme, sometimes called a [Manual For Me](https://www.manualof.me). If you're reading this, you're working with me, and I'd like to make that process as great as possible!
 
@@ -13,7 +13,7 @@ Jamming with friends, writing and producing fiction podcasts, playing tabletop g
 
 ## My best working patterns
 
-Online, async,Monday-Wednesday 9-5
+Online, async, Monday-Wednesday 9-5. I am delighted to meet with my collagues in person once per sprint for planning, lunch, more planning, and after-work drinks.
 
 ## When I'm dealing with stress
 
