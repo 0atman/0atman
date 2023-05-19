@@ -11,3 +11,5 @@ I'm an audio producer, web developer, and musician based in London. I write [ele
 - Twitter - [@0atman](https://twitter.com/0atman)
 - My Music - [namtao.com](http://namtao.com)
 - Fast technical videos [No Boilerplate](https://www.youtube.com/c/NoBoilerplate)
+
+<a rel="me" href="https://mastodon.social/@0atman">Mastodon</a>
