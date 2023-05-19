@@ -8,8 +8,8 @@ I'm an audio producer, web developer, and musician based in London. I write [ele
 
 ### 📌 Where to find me 
 - Blog - [0atman.com](http://0atman.com)
-- Twitter - [@0atman](https://twitter.com/0atman)
+- <a rel="me" href="https://mastodon.social/@0atman">Mastodon</a> - [@0atman@mastodon.social](https://mastodon.social/@0atman)
 - My Music - [namtao.com](http://namtao.com)
 - Fast technical videos [No Boilerplate](https://www.youtube.com/c/NoBoilerplate)
 
-<a rel="me" href="https://mastodon.social/@0atman">Mastodon</a>
+
