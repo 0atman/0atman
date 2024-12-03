@@ -8,7 +8,7 @@ I'm a producer, web developer, and musician based in London. I write [electronic
 
 ### 📌 Where to find me 
 - Blog - [0atman.com](http://0atman.com)
-- <a rel="me" href="https://mastodon.social/@0atman">Mastodon</a> - [@0atman@mastodon.social](https://mastodon.social/@0atman) and <a rel="me" href="https://namtao.com/@tris">@tris@namtao.com</a>
+- Mastodon <a rel="me" href="https://mastodon.social/@0atman">@0atman@mastodon.social</a> and <a rel="me" href="https://namtao.com/@tris">@tris@namtao.com</a>
 - My Music - [namtao.com](http://namtao.com)
 - Fast technical videos [No Boilerplate](https://www.youtube.com/c/NoBoilerplate)
 
