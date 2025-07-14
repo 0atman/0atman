@@ -4,7 +4,10 @@
 	<br>
 </div>
 
-I'm a producer, web developer, and musician based in London. I write [electronic music](https://namtao.com), [fast technical videos](https://www.youtube.com/c/NoBoilerplate), produce an urban fantasy podcast called [Modem Prometheus](https://www.modemprometheus.com/), and a hopepunk podcast called [Lost Terminal](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s), exploring themes of near-future AI which blends my three great passions of music, programming, and ~~love of my own voice~~ writing fiction!
+I'm a producer, web developer, and musician based in London. I write [electronic music](https://namtao.com), [fast technical videos](https://www.youtube.com/c/NoBoilerplate), 
+produce a hopepunk podcast called [Lost Terminal](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s), 
+and a contemporary urban fantasy podcast called [Modem Prometheus](https://www.modemprometheus.com/), 
+as well as a magical realism art history podcast, [The Phosphene Catalogue](https://phosphenecatalogue.com).
 
 ### 📌 Where to find me 
 - Blog - [0atman.com](http://0atman.com)
