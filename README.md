@@ -9,7 +9,7 @@ I write and produce electronic music under the name [NAMTAO](https://namtao.com)
 fast technical videos on my channel, [NoBoilerplate](https://www.youtube.com/c/NoBoilerplate), 
 a hopepunk podcast called [Lost Terminal](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s),
 a magical realism art history podcast, [The Phosphene Catalogue](https://phosphenecatalogue.com),
-and direct and prouduce a contemporary urban fantasy podcast called [Modem Prometheus](https://www.modemprometheus.com/).
+and direct and produce a contemporary urban fantasy podcast called [Modem Prometheus](https://www.modemprometheus.com/).
 
 
 
