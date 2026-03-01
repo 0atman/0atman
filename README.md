@@ -15,9 +15,9 @@ and direct and produce a contemporary urban fantasy podcast called [Modem Promet
 
 
 ### 📌 Where to find me 
-- Blog - [0atman.com](http://0atman.com)
+- Blog - [0atman.com](https://www.0atman.com)
 - Mastodon <a rel="me" href="https://namtao.com/@tris">@tris@namtao.com</a> (used to be <a rel="me" href="https://mastodon.social/@0atman">@0atman@mastodon.social</a>)
-- My Music - [namtao.com](http://namtao.com)
+- My Music - [namtao.com](https://www.namtao.com)
 - Fast technical videos [No Boilerplate](https://www.youtube.com/c/NoBoilerplate)
 
 
